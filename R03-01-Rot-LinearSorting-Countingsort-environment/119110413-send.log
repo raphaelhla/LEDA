@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-09T21:04:16.177-0300</date>
+  <logger>RAPHAEL HENRIQUE DE LUCENA AGRA</logger>
+  <level>FINE</level>
+  <message>File 119110413-RAPHAEL HENRIQUE DE LUCENA AGRA.zip was received. It was sent by RAPHAEL HENRIQUE DE LUCENA AGRA from IP 192.168.15.15 at 09-10-2020 21*04*16</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-11T05:05:10.991-0300</date>
+  <logger>RAPHAEL HENRIQUE DE LUCENA AGRA</logger>
+  <level>FINE</level>
+  <message>File 119110413-RAPHAEL HENRIQUE DE LUCENA AGRA.zip was received. It was sent by RAPHAEL HENRIQUE DE LUCENA AGRA from IP 192.168.15.15 at 11-10-2020 05*05*10</message>
+</record>
